@@ -1,4 +1,4 @@
-# Deep Learning for Flower Image Similarity Assessment
+# Flower Image Similarity Assessment
 
 This repository contains a comprehensive implementation of deep learning approaches for flower image similarity assessment using the 102 Flower Category Dataset. The project explores different embedding-based architectures and their robustness to adversarial attacks.
 
